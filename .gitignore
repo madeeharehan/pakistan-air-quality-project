@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Cache and temporary files
+.cache/
+frontend/node_modules/.cache/
+
+# Environment variables (security)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
