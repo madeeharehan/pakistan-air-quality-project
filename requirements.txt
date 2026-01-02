@@ -1,0 +1,9 @@
+openaq
+pandas
+numpy
+flask
+flask-cors
+scikit-learn
+matplotlib
+seaborn
+
