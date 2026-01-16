@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import os
 
-# 1. Load the analyzed data
+# 1. Load the analyzed data.
 file_path = "pakistan_pm25_hourly/pakistan_analyzed_pm25.csv"
 if not os.path.exists(file_path):
     print("Error: Analyzed data file not found. Run analyze_data.py first!")
